@@ -28,11 +28,10 @@
 	{/if} -->
 </header>
 
-{topMatter.description}:{topMatter.course}:{topMatter.courseModule}
 
 <style>
 	header {
-		background: var(--main-grey);
+		background: var(--primary-grey);
 		box-shadow: -0.25px 5px 15px 0px rgba(0, 0, 0, 0.5);
 		display: flex;
 		font-size: 150%;

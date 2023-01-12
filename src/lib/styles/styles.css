@@ -6,10 +6,11 @@
   --strength-white: #eeeee8;
   --fluids-primary: #088;
   --fluids-white: #e8eeee;
-  --main-grey: #888;
+  --main-grey: #aaa;
   --light-grey: #eee;
+  --primary-grey: #ddd;
   --off-black: #333;
-  --dark-grey: #666;
+  --dark-grey: #555;
   font-family: Arial, sans-serif;
   font-size: clamp(16px, 1.5vw, 24px);
   font-weight: 400;
